@@ -1,0 +1,28 @@
+{
+  "name": "next-cats",
+  "version": "1.0.0",
+  "description": "nextjs test app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "next",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleymoogle/next-cats.git"
+  },
+  "author": "ashleymoogle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleymoogle/next-cats/issues"
+  },
+  "homepage": "https://github.com/ashleymoogle/next-cats#readme",
+  "devDependencies": {
+    "yarn": "^0.17.10"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^1.2.3",
+    "react": "^15.4.1"
+  }
+}
