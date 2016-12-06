@@ -4,8 +4,9 @@
   "description": "nextjs test app",
   "main": "index.js",
   "scripts": {
-    "serve": "next",
-    "test": ""
+    "start": "next start",
+    "build": "next build",
+    "now": "now"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/ashleymoogle/next-cats#readme",
   "devDependencies": {
+    "now": "^0.34.1",
     "yarn": "^0.17.10"
   },
   "dependencies": {
